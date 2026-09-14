@@ -1,0 +1,10 @@
+{
+    "ApiSolanaClient":{
+        "MIN_SOL_RESERVE":5000,  
+        "MAX_TIMEOUT":300,  
+        "RETRY_ATTEMPTS":10,  
+        "RETRY_DELAY":3,
+        "RPC":"https://api.mainnet-beta.solana.com"  
+    }
+
+}
