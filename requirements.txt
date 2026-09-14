@@ -3,7 +3,6 @@ uvicorn==0.32.0
 pandas==2.2.3
 solders==0.21.0
 solana==0.34.3
-spl-token==0.4.8
 aiohttp==3.10.10
 python-multipart==0.0.12
 Jinja2==3.1.4
